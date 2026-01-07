@@ -1,0 +1,72 @@
+26-01-07.15:51:27.761 [main            ] WARN  DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/XDUAI/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/XDUAI/.m2/repository/org/json/json/20231013/json-20231013.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+26-01-07.15:51:27.778 [main            ] INFO  JGitTest               - Starting JGitTest using Java 17.0.14 with PID 22344 (started by XDUAI in D:\javacode\WebProj\ai-rag-knowledge\rag-app)
+26-01-07.15:51:27.779 [main            ] INFO  JGitTest               - The following 1 profile is active: "dev"
+26-01-07.15:51:28.500 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+26-01-07.15:51:28.502 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+26-01-07.15:51:28.535 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+26-01-07.15:51:29.220 [main            ] INFO  HikariDataSource       - HikariCP - Starting...
+26-01-07.15:51:29.557 [main            ] INFO  HikariPool             - HikariCP - Added connection org.postgresql.jdbc.PgConnection@3562e7c7
+26-01-07.15:51:29.558 [main            ] INFO  HikariDataSource       - HikariCP - Start completed.
+26-01-07.15:51:33.410 [main            ] INFO  Version                - Redisson 3.44.0
+26-01-07.15:51:33.614 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:6379
+26-01-07.15:51:33.632 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:6379
+26-01-07.15:51:34.341 [main            ] INFO  JGitTest               - Started JGitTest in 6.973 seconds (process running for 7.922)
+26-01-07.15:51:34.939 [main            ] INFO  JGitTest               - 克隆路径：D:\javacode\WebProj\ai-rag-knowledge\rag-app\.\cloned-repo
+26-01-07.15:54:01.198 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariCP - Shutdown initiated...
+26-01-07.15:54:01.201 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariCP - Shutdown completed.
+26-01-07.15:58:47.272 [main            ] WARN  DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/XDUAI/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/XDUAI/.m2/repository/org/json/json/20231013/json-20231013.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+26-01-07.15:58:47.286 [main            ] INFO  JGitTest               - Starting JGitTest using Java 17.0.14 with PID 21556 (started by XDUAI in D:\javacode\WebProj\ai-rag-knowledge\rag-app)
+26-01-07.15:58:47.287 [main            ] INFO  JGitTest               - The following 1 profile is active: "dev"
+26-01-07.15:58:48.056 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+26-01-07.15:58:48.059 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+26-01-07.15:58:48.089 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+26-01-07.15:58:48.820 [main            ] INFO  HikariDataSource       - HikariCP - Starting...
+26-01-07.15:58:49.136 [main            ] INFO  HikariPool             - HikariCP - Added connection org.postgresql.jdbc.PgConnection@3ff8a3ad
+26-01-07.15:58:49.138 [main            ] INFO  HikariDataSource       - HikariCP - Start completed.
+26-01-07.15:58:52.800 [main            ] INFO  Version                - Redisson 3.44.0
+26-01-07.15:58:53.001 [redisson-netty-1-5] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:6379
+26-01-07.15:58:53.024 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:6379
+26-01-07.15:58:53.651 [main            ] INFO  JGitTest               - Started JGitTest in 6.797 seconds (process running for 7.738)
+26-01-07.15:58:54.291 [main            ] INFO  JGitTest               - 克隆路径：D:\javacode\WebProj\cloned-repo
+26-01-07.16:00:14.143 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariCP - Shutdown initiated...
+26-01-07.16:00:14.146 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariCP - Shutdown completed.
+26-01-07.16:59:06.962 [main            ] WARN  DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/XDUAI/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/XDUAI/.m2/repository/org/json/json/20231013/json-20231013.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+26-01-07.16:59:06.980 [main            ] INFO  JGitTest               - Starting JGitTest using Java 17.0.14 with PID 24632 (started by XDUAI in D:\javacode\WebProj\ai-rag-knowledge\rag-app)
+26-01-07.16:59:06.981 [main            ] INFO  JGitTest               - The following 1 profile is active: "dev"
+26-01-07.16:59:07.790 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+26-01-07.16:59:07.793 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+26-01-07.16:59:07.877 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 66 ms. Found 0 Redis repository interfaces.
+26-01-07.16:59:08.546 [main            ] INFO  HikariDataSource       - HikariCP - Starting...
+26-01-07.16:59:08.720 [main            ] INFO  HikariPool             - HikariCP - Added connection org.postgresql.jdbc.PgConnection@740c4868
+26-01-07.16:59:08.723 [main            ] INFO  HikariDataSource       - HikariCP - Start completed.
+26-01-07.16:59:09.482 [main            ] INFO  Version                - Redisson 3.44.0
+26-01-07.16:59:09.670 [redisson-netty-1-4] INFO  ConnectionsHolder      - 1 connections initialized for 127.0.0.1/127.0.0.1:6379
+26-01-07.16:59:09.688 [redisson-netty-1-13] INFO  ConnectionsHolder      - 5 connections initialized for 127.0.0.1/127.0.0.1:6379
+26-01-07.16:59:10.287 [main            ] INFO  JGitTest               - Started JGitTest in 3.711 seconds (process running for 4.597)
+26-01-07.16:59:10.971 [main            ] INFO  JGitTest               - 克隆路径：D:\javacode\WebProj\cloned-repo
+26-01-07.16:59:25.568 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariCP - Shutdown initiated...
+26-01-07.16:59:25.570 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariCP - Shutdown completed.
